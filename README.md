@@ -1,7 +1,5 @@
 # HCI-GadgetGuru-College-Project
 
-Certainly! Here are some suggestions to make your description cleaner and more concise:
-
 I developed a web application for my Human-Computer Interaction (HCI) college course, utilizing React.js for the front-end and Firebase for the back-end. The app includes the following features:
 
 1) User Authentication:
