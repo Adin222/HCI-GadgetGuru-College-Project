@@ -24,3 +24,5 @@ Sort products by price for each product type.
 
 7) Responsive Web Design (RWD):
 Ensures great experience across various devices.
+
+In project description there is a link to hosted app.
