@@ -1,6 +1,6 @@
 # HCI-GadgetGuru-College-Project
 
-I developed a web application for my Human-Computer Interaction (HCI) college course, utilizing React.js for the front-end and Firebase for the back-end. The app includes the following features:
+Me and my friend <a href="https://github.com/Osmanbasicc" target="_blank">Vedad Osmanbašić</a> developed a web application for my Human-Computer Interaction (HCI) college course, utilizing React.js for the front-end and Firebase for the back-end. The app includes the following features:
 
 1) User Authentication:
  Sign up and log in functionalities.
